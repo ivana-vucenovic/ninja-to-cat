@@ -1,0 +1,11 @@
+ *{
+     margin: 0;
+     padding: 0;
+ }
+ #main_page{
+     width: 500px;
+     height: 900px;
+ }
+ img{
+     width: 500px;
+ }
